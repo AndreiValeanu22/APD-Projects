@@ -1,3 +1,4 @@
+# Arhive
 *.zip
 *.rar
 *.7z
@@ -5,6 +6,8 @@
 *.tar.gz
 *.tgz
 *.gz
+
+# Build / IDE
 *.class
 *.o
 tema2
@@ -13,6 +16,10 @@ tema2.exe
 .idea/
 target/
 lib/dependency/
+
+# Output local
 **/sol/
 **/output/
+
+# Nested repos
 **/.git/
