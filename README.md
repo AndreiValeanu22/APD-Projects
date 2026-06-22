@@ -64,4 +64,4 @@ cd checker && ./checker.sh
 
 ## Licență & utilizare
 
-Cod sursă propriu, teme academice **UPB ACS**. Poți folosi repo-ul ca portofoliu; te rog menționează cursul APD dacă refolosești structura.
+Cod sursă propriu, teme academice **UPB ACS**.
