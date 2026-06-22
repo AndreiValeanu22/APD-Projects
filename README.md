@@ -2,13 +2,12 @@
 
 Proiecte pentru cursul **APD** (Anul 3, CB), sesiunea **2025–2026**.
 
-| Folder | Temă | Tehnologii |
-|--------|------|------------|
-| [Tema_1](Tema_1/) | Baza de date paralelă de știri | Java, Threads, Jackson JSON |
-| [Tema_2](Tema_2/) | CHORD distribuit | C, MPI |
+## Tema 1 — Procesare paralelă articole (Java Threads)
 
----
+**Enunț (rezumat):** Se construiește o bază de date de articole de știri procesată **paralel**.
 
-## Tema 1
+## Tema 2 — CHORD în MPI
 
-Romanian content.
+## Licență & utilizare
+
+Cod sursă propriu, teme academice UPB.
