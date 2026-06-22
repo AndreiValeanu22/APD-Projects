@@ -62,16 +62,6 @@ cd checker && ./checker.sh
 
 ---
 
-## Ce nu este pe GitHub (dar există local)
-
-- Arhivele `.zip` / `.rar` (dacă le ai descărcate) — **nu sunt urcate**
-- Folderul `sol/` (output-uri locale de referință)
-- Setări editor `.vscode`
-
-Pe repo sunt incluse articolele JSON necesare checker-ului (`test_small`, `test_1` … `test_5`) — sunt multe fișiere pentru că testele oficiale le referă pe toate.
-
----
-
 ## Licență & utilizare
 
 Cod sursă propriu, teme academice **UPB ACS**. Poți folosi repo-ul ca portofoliu; te rog menționează cursul APD dacă refolosești structura.
